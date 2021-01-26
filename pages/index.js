@@ -23,6 +23,7 @@ export const QuizContainer = styled.div`
   @media screen and (max-width: 500px) {
     margin: auto;
     padding: 15px;
+    max-width: 330px;
   }
 `;
 
@@ -32,10 +33,10 @@ export default function Home() {
       <QuizContainer>
         <Widget>  
           <Widget.Header>
-            <h1>Css Awesome</h1>
+            <h1>{db.title}</h1>
           </Widget.Header>
           <Widget.Content>  
-            <p>Lorem ipsum dolor sit</p>
+            <p>{db.description}</p>
           </Widget.Content>
         </Widget>
 
@@ -47,7 +48,7 @@ export default function Home() {
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner />
+      <GitHubCorner projectUrl='https://github.com/Kako-0/Alura-Quiz'/>
     </QuizBackground>
   );
 }
