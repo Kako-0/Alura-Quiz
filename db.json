@@ -4,27 +4,110 @@
     "description": "Teste os seus conhecimentos sobre biologia!",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": null,
+        "title": "(Enem 2ª aplicação 2010)",
+        "description": "Alguns fatores podem alterar a rapidez das reações químicas. A seguir, destacam-se três exemplos no contexto da preparação e da conservação de alimentos:\n1. A maioria dos produtos alimentícios se conserva por muito mais tempo quando submetidos à refrigeração. Esse procedimento diminui a rapidez das reações que contribuem para a degradação de certos alimentos.\n2. Um procedimento muito comum utilizado em práticas de culinária é o corte dos alimentos para acelerar o seu cozimento, caso não se tenha uma panela de pressão.\n3. Na preparação de iogurtes, adicionam-se ao leite bactérias produtoras de enzimas que aceleram as reações envolvendo açúcares e proteínas lácteas. \n\nCom base no texto, quais são os fatores que influenciam a rapidez das transformações químicas relacionadas aos exemplos 1, 2 e 3, respectivamente?",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+            "a) Temperatura, superfície de contato e concentração.",
+            "b) Concentração, superfície de contato e catalisadores.", 
+            "c) Temperatura, superfície de contato e catalisadores.", 
+            "d) Superfície de contato, temperatura e concentração.", 
+            "e) Temperatura, concentração e catalisadores."
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "http://s2.glbimg.com/N7BLt3f88Oc-JTe8hYup9SaWofc=/0x0:653x343/620x326/s.glbimg.com/po/ek/f/original/2013/11/06/enem-2013-3_1.png",
+        "title": "(Enem 2013)",
+        "description": "Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas organelas presentes no citoplasma de cada linhagem\n\nQual é a melhor linhagem para se conseguir maior rendimento de polímeros secretados no meio de cultura?",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "a) I",
+          "b) II",
+          "c) III",
+          "d) IV",
+          "e) V"
+        ]
+      },
+      {
+        "image": null,
+        "title": "(Enem 2013)",
+        "description": "Para a identificação de um rapaz vítima de acidente, fragmentos de tecidos foram retirados e submetidos à extração de DNA nuclear, para comparação com o DNA disponível dos possíveis familiares (pai, avô materno, avó materna, filho e filha). Como o teste com o DNA nuclear não foi conclusivo, os peritos optaram por usar também DNA mitocondrial, para dirimir dúvidas.Para identificar o corpo, os peritos devem verificar se há homologia entre o DNA mitocondrial do rapaz e o DNA mitocondrial do(a):",
+        "answer": 3,
+        "alternatives": [
+          "a) Pai",
+          "b) Filho",
+          "c) Filha",
+          "d) Avó materna",
+          "e) avô materno"
+        ]
+      },
+      {
+        "image": null,
+        "title": "(Enem 2013)",
+        "description": "A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores. Considerando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?",
+        "answer": 1,
+        "alternatives": [
+          "a) Lisossomo.",
+          "b) Mitocôndria.",
+          "c) Peroxissomo.",
+          "d) Complexo golgiense.",
+          "e) Retículo endoplasmático."
+        ]
+      },
+      {
+        "image": "http://s2.glbimg.com/iPpjd6ePOW0hDvUeSdQf8a6nHw8=/0x0:762x246/620x200/s.glbimg.com/po/ek/f/original/2013/12/12/enem-2010-questao62.png",
+        "title": "(Enem 2010)",
+        "description": "Para explicar a absorção de nutrientes, bem como a função das microvilosidades das membranas das células que revestem as paredes internas do intestino delgado, um estudante realizou o seguinte experimento: \nColocou 200 mℓ de água em dois recipientes. No primeiro recipiente, mergulhou, por 5 segundos, um pedaço de papel liso, como na FIGURA 1; no segundo recipiente, fez o mesmo com um pedaço de papel com dobras simulando as microvilosidades, conforme FIGURA 2. Os dados obtidos foram: a quantidade de água absorvida pelo papel liso foi de 8 mℓ, enquanto pelo papel dobrado foi de 12 mℓ. \n\nCom base nos dados obtidos, infere-se que a função das microvilosidades intestinais com relação à absorção de nutrientes pelas células das paredes internas do intestino é a de: ",
+        "answer": 1,
+        "alternatives": [
+          "a) manter o volume de absorção.",
+          "b) aumentar a superfície de absorção.",
+          "c) diminuir a velocidade de absorção.",
+          "d) aumentar o tempo de absorção.",
+          "e) manter a seletividade na absorção."
+        ]
+      },
+      {
+        "image": "http://s2.glbimg.com/WPQJQPH6CC5n8c9GirdN5zyqxlw=/0x0:625x615/620x610/s.glbimg.com/po/ek/f/original/2014/04/01/enem_22.1.jpg",
+        "title": "(Enem 2009)",
+        "description": "Um medicamento, após ser ingerido, atinge a corrente sanguínea e espalha-se pelo organismo, mas, como suas moléculas “não sabem” onde é que está o problema, podem atuar em locais diferentes do local “alvo” e desencadear efeitos além daqueles desejados. Não seria perfeito se as moléculas dos medicamentos soubessem exatamente onde está o problema e fossem apenas até aquele local exercer sua ação? A técnica conhecida como iontoforese, indolor e não invasiva, promete isso. Como mostram as figuras, essa nova técnica baseia-se na aplicação de uma corrente elétrica de baixa intensidade sobre a pele do paciente, permitindo que fármacos permeiem membranas biológicas e alcancem a corrente sanguínea, sem passar pelo estômago. Muitos pacientes relatam apenas um formigamento no local de aplicação. O objetivo da corrente elétrica é formar poros que permitam a passagem do fármaco de interesse. A corrente elétrica é distribuída por eletrodos, positivo e negativo, por meio de uma solução aplicada sobre a pele. Se a molécula do medicamento tiver carga elétrica positiva ou negativa, ao entrar em contato com o eletrodo de carga de mesmo sinal, ela será repelida e forçada a entrar na pele (eletrorrepulsão - A). Se for neutra, a molécula será forçada a entrar na pele juntamente com o fluxo de solvente fisiológico que se forma entre os eletrodos (eletrosmose - B).\n\nDe acordo com as informações contidas no texto e nas figuras, o uso da iontoforese",
+        "answer": 3,
+        "alternatives": [
+          "a) provoca ferimento na pele do paciente ao serem introduzidos os eletrodos, rompendo o epitélio.",
+          "b) aumenta o risco de estresse nos pacientes, causado pela aplicação da corrente elétrica",
+          "c) inibe o mecanismo de ação dos medicamentos no tecido-alvo, pois estes passam a entrar por meio da pele.",
+          "d) diminui o efeito colateral dos medicamentos, se comparados com aqueles em que a ingestão se faz por via oral.",
+          "e) deve ser eficaz para medicamentos constituídos de moléculas polares e ineficaz, se essas forem apolares."
+        ]
+      },
+      {
+        "image": null,
+        "title": "(Enem cancelado 2009)",
+        "description": "Quando adquirimos frutas no comércio, observamos com mais frequência frutas sem ou com poucas sementes. Essas frutas têm grande apelo comercial e são preferidas por uma parcela cada vez maior da população. Em plantas que normalmente são diploides, isto é, apresentam dois cromossomos de cada par, uma das maneiras de produzir frutas sem sementes é gerar plantas com uma ploidia diferente de dois, geralmente triploide. Uma das técnicas de produção dessas plantas triploides é a geração de uma planta tetraploide (com 4 conjuntos de cromossomos), que produz gametas diploides e promove a reprodução dessa planta com uma planta diploide normal.A planta triploide oriunda desse cruzamento apresentará uma grande dificuldade de gerar gametas viáveis, pois como a segregação dos cromossomos homólogos na meiose I é aleatória e independente, espera-se que:",
+        "answer": 4,
+        "alternatives": [
+          "a) os gametas gerados sejam diploides.",
+          "b) as cromátides irmãs sejam separadas ao final desse evento.",
+          "c) o número de cromossomos encontrados no gameta seja 23.",
+          "d) um cromossomo de cada par seja direcionado para uma célula filha.",
+          "e) um gameta raramente terá o número correto de cromossomos da espécie."
+        ]
+      },
+      {
+        "image": null,
+        "title": "(Enem 2009)",
+        "description": "Estima-se que haja atualmente no mundo 40 milhões de pessoas infectadas pelo HIV (o vírus que causa a AIDS), sendo que as taxas de novas infecções continuam crescendo, principalmente na África, Ásia e Rússia. Nesse cenário de pandemia, uma vacina contra o HIV teria imenso impacto, pois salvaria milhões de vidas.Certamente seria um marco na história planetária e também uma esperança para as populações carentes de tratamento antiviral e de acompanhamento médico. Uma vacina eficiente contra o HIV deveria:",
+        "answer": 0,
+        "alternatives": [
+          "a) induzir a imunidade, para proteger o organismo da contaminação viral.",
+          "b) ser capaz de alterar o genoma do organismo portador,induzindo a síntese de enzimas protetoras.",
+          "c) produzir antígenos capazes de se ligarem ao vírus, impedindo que este entre nas células do organismo humano.",
+          "d) ser amplamente aplicada em animais, visto que esses são os principais transmissores do vírus para os seres humanos.",
+          "e) estimular a imunidade, minimizando a transmissão do vírus por gotículas de saliva."
         ]
       }
+ 
     ],
     "external": [
       ""
