@@ -4,7 +4,7 @@
     "description": "Teste os seus conhecimentos sobre biologia!",
     "questions": [
       {
-        "image": null,
+        "image": "none",
         "title": "(Enem 2ª aplicação 2010)",
         "description": "Alguns fatores podem alterar a rapidez das reações químicas. A seguir, destacam-se três exemplos no contexto da preparação e da conservação de alimentos:\n1. A maioria dos produtos alimentícios se conserva por muito mais tempo quando submetidos à refrigeração. Esse procedimento diminui a rapidez das reações que contribuem para a degradação de certos alimentos.\n2. Um procedimento muito comum utilizado em práticas de culinária é o corte dos alimentos para acelerar o seu cozimento, caso não se tenha uma panela de pressão.\n3. Na preparação de iogurtes, adicionam-se ao leite bactérias produtoras de enzimas que aceleram as reações envolvendo açúcares e proteínas lácteas. \n\nCom base no texto, quais são os fatores que influenciam a rapidez das transformações químicas relacionadas aos exemplos 1, 2 e 3, respectivamente?",
         "answer": 2,
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "image": null,
+        "image": "none",
         "title": "(Enem 2013)",
         "description": "Para a identificação de um rapaz vítima de acidente, fragmentos de tecidos foram retirados e submetidos à extração de DNA nuclear, para comparação com o DNA disponível dos possíveis familiares (pai, avô materno, avó materna, filho e filha). Como o teste com o DNA nuclear não foi conclusivo, os peritos optaram por usar também DNA mitocondrial, para dirimir dúvidas.Para identificar o corpo, os peritos devem verificar se há homologia entre o DNA mitocondrial do rapaz e o DNA mitocondrial do(a):",
         "answer": 3,
@@ -43,7 +43,7 @@
         ]
       },
       {
-        "image": null,
+        "image": "none",
         "title": "(Enem 2013)",
         "description": "A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores. Considerando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?",
         "answer": 1,
@@ -82,7 +82,7 @@
         ]
       },
       {
-        "image": null,
+        "image": "none",
         "title": "(Enem cancelado 2009)",
         "description": "Quando adquirimos frutas no comércio, observamos com mais frequência frutas sem ou com poucas sementes. Essas frutas têm grande apelo comercial e são preferidas por uma parcela cada vez maior da população. Em plantas que normalmente são diploides, isto é, apresentam dois cromossomos de cada par, uma das maneiras de produzir frutas sem sementes é gerar plantas com uma ploidia diferente de dois, geralmente triploide. Uma das técnicas de produção dessas plantas triploides é a geração de uma planta tetraploide (com 4 conjuntos de cromossomos), que produz gametas diploides e promove a reprodução dessa planta com uma planta diploide normal.A planta triploide oriunda desse cruzamento apresentará uma grande dificuldade de gerar gametas viáveis, pois como a segregação dos cromossomos homólogos na meiose I é aleatória e independente, espera-se que:",
         "answer": 4,
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "image": null,
+        "image": "none",
         "title": "(Enem 2009)",
         "description": "Estima-se que haja atualmente no mundo 40 milhões de pessoas infectadas pelo HIV (o vírus que causa a AIDS), sendo que as taxas de novas infecções continuam crescendo, principalmente na África, Ásia e Rússia. Nesse cenário de pandemia, uma vacina contra o HIV teria imenso impacto, pois salvaria milhões de vidas.Certamente seria um marco na história planetária e também uma esperança para as populações carentes de tratamento antiviral e de acompanhamento médico. Uma vacina eficiente contra o HIV deveria:",
         "answer": 0,
