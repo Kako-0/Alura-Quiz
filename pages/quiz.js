@@ -32,6 +32,7 @@ function QuestionWidget({
   const [selectedAlternative, setSelectedAlternative] = React.useState(undefined);
   const [isQuestionSubmited, setIsQuestionSubmited] = React.useState(false);
   const [hasAlternativeSelected, setHasAlternativeSelected] = React.useState(false);
+  const haveImg = question.image !== 'none';
   const isCorrect = (selectedAlternative === question.answer);
   const questionId = `question__${questionIndex}`;
 
@@ -42,16 +43,20 @@ function QuestionWidget({
           {`Pergunta ${questionIndex + 1} de ${totalQuestions}`}
         </h3>
       </Widget.Header>
-
-      <img
-        alt="Descrição"
-        style={{
-          width: '100%',
-          height: '150px',
-          objectFit: 'cover',
-        }}
-        src={question.image}
-      />
+      {
+        haveImg
+        && (
+        <img
+          alt="Descrição"
+          style={{
+            width: '100%',
+            height: '150px',
+            objectFit: 'cover',
+          }}
+          src={question.image}
+        />
+        )
+      }
       <Widget.Content>
         <h2>
           {question.title}
