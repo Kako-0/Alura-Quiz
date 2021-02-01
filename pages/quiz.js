@@ -68,6 +68,7 @@ function QuestionWidget({
               addResult(isCorrect);
               setHasAlternativeSelected(false);
               setIsQuestionSubmited(false);
+              setSelectedAlternative(undefined);
               onSubmit();
             }, 3 * 1000);
           }}
@@ -102,8 +103,6 @@ function QuestionWidget({
           <Button type="submit" disabled={!hasAlternativeSelected}>
             Confirmar
           </Button>
-          {isQuestionSubmited && isCorrect && <p>Acertou!</p>}
-          {isQuestionSubmited && !isCorrect && <p>Errou!</p>}
         </AlternativesForm>
       </Widget.Content>
     </Widget>
